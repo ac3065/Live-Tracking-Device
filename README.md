@@ -11,8 +11,6 @@ A real-time device tracking system built with Express.js and modern web technolo
 
 🛠️ Technologies Used:
 Backend: Express.js, Node.js
-Frontend: (Mention if applicable)
-Database: (Mention if applicable)
 📌 Setup & Usage:
 
 1️⃣ Clone the repository:
